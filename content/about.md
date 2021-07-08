@@ -29,13 +29,22 @@ seo:
       relativeUrl: true
 layout: page
 ---
+My name is Vitor Calisto Silva and I am a master's student. I'm working with bioinformatic tools to perform analysis on the genetics and genomics of the Zebrafish pancreas. I am also using this infornation to campare the findings with what is known about Human pancreas.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+I've previously did an internship on a project of conservation of the Iberian Wolf in the northern of Portugal and also participated in a project to study the genetics of the Guinea Baboon populations in Mauritania.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+This space is intended to document some of the things I've learnt during period, which should end by the Fall of 2021 and other, *more or less*, personal topics.**
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+**My hobbies are 
+
+> The world always seems brighter when you’ve just made something that wasn’t there before. Neil Gaiman
 
 As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
 
-*Thank You for reading!*
+*Thank You for reading!
+
+fsaf
+
+ff
+
+*
