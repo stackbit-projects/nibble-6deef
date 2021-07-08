@@ -37,7 +37,7 @@ This space is intended to document some of the things I've learnt during period,
 
 My hobbies are going on walks with my puppy, relaxing with my cat on my lap, doing analog photography and reading books.
 
-\<cite>Beauty, though, will save the world.\</cite>
-Dostoyevsky
+> Beauty, though, will save the world.
+> Dostoyevsky
 
 Thank You for reading!
