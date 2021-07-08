@@ -1,6 +1,6 @@
 ---
 title: About Me
-img_path: images/about.jpg
+img_path: images/Screenshot 2021-05-01 at 14.15.40.PNG
 seo:
   title: About Me
   description: A page about me and my work
