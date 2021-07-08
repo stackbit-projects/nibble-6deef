@@ -42,5 +42,3 @@ My hobbies are going on walks with my puppy, relaxing with my cat on my lap, doi
 This space is intended to document some of the things I've learnt during period, which should end by the Fall of 2021 and other, *more or less*, personal topics.
 
 Thanks for reading.
-
-\>the world \<cite>Neil Gaiman\</cite>
