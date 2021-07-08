@@ -37,9 +37,4 @@ This space is intended to document some of the things I've learnt during period,
 
 My hobbies are going on walks with my puppy, relaxing with my cat on my lap, doing analog photography and reading books.
 
-
-\>fjskdfjks
-
-\<cite>hdjhfjdh\</cite>
-
 Thank You for reading!
