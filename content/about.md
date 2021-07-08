@@ -43,12 +43,8 @@ This space is intended to document some of the things I've learnt during period,
 
 Thanks for reading.
 
-
-
-
-
-The world always seems brighter when you’ve just made something that wasn’t there before. 
-Neil Gaiman
+The world always seems brighter when you’ve just made something that wasn’t there before. \<cite>
+Neil Gaiman\</cite>
 
 
 
