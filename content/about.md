@@ -43,8 +43,4 @@ This space is intended to document some of the things I've learnt during period,
 
 Thanks for reading.
 
-
-
-
-\>the world Neil Gaiman
-
+\>the world \<cite>Neil Gaiman\</cite>
