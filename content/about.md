@@ -46,12 +46,5 @@ Thanks for reading.
 
 
 
-
-
-
-
-
-> The world always seems brighter when you’ve just made something that wasn’t there before. Neil Gaiman
-
-
+\>the world Neil Gaiman
 
