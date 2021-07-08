@@ -5,7 +5,7 @@
         "title": "Nibble",
         "tagline": "a nibble here and there",
         "logo_img": "images/logo.svg",
-        "logo_img_alt": "Fjord Logo",
+        "logo_img_alt": "Nibble Logo",
         "background_img": "images/header-bg.png",
         "has_nav": true,
         "nav_links": [
