@@ -29,7 +29,6 @@ seo:
       relativeUrl: true
 layout: page
 ---
-
 My name is Vitor Calisto Silva and I am a master's student. I'm working with bioinformatic tools to perform analysis on the genetics and genomics of the Zebrafish pancreas. I am also using this information to compare the findings with what is known about Human pancreas.
 
 I've previously did an internship on a project of conservation of the Iberian Wolf in the northern of Portugal and also participated in a project to study the genetics of the Guinea Baboon populations in Mauritania.
@@ -37,9 +36,5 @@ I've previously did an internship on a project of conservation of the Iberian Wo
 This space is intended to document some of the things I've learnt during period, which should end by the Fall of 2021 and other, *more or less*, personal topics.
 
 My hobbies are going on walks with my puppy, relaxing with my cat on my lap, doing analog photography and reading books.
-
-> Beauty, though, will save the world.
->
-> Dostoyevsky
 
 Thank You for reading!
