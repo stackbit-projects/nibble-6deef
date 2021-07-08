@@ -33,18 +33,8 @@ My name is Vitor Calisto Silva and I am a master's student. I'm working with bio
 
 I've previously did an internship on a project of conservation of the Iberian Wolf in the northern of Portugal and also participated in a project to study the genetics of the Guinea Baboon populations in Mauritania.
 
-This space is intended to document some of the things I've learnt during period, which should end by the Fall of 2021 and other, *more or less*, personal topics.**
+This space is intended to document some of the things I've learnt during period, which should end by the Fall of 2021 and other, *more or less*, personal topics.
 
-**My hobbies are 
+My hobbies are going on walks with my puppy, relaxing with my cat on my lap, doing analog photography and reading books.
 
-> The world always seems brighter when you’ve just made something that wasn’t there before. Neil Gaiman
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!
-
-fsaf
-
-ff
-
-*
+Thank You for reading!
