@@ -29,13 +29,6 @@ seo:
       relativeUrl: true
 layout: page
 ---
-> “Half a byte—that is, 4 bits—is sometimes referred to as a nibble (and is sometimes spelled nybble), but this word doesn't come up in conversation nearly as often as byte.”
->
->
->
->
-> Excerpt From: Charles Petzold. “Code: The Hidden Language of Computer Hardware and Software”.
-
 >Half a byte—that is, 4 bits—is sometimes referred to as a nibble (and is sometimes spelled nybble), but this word doesn't come up in conversation nearly as often as byte. <cite>Excerpt From: Charles Petzold. “Code: The Hidden Language of Computer Hardware and Software”</cite>
 
 
