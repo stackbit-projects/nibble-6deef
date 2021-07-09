@@ -60,4 +60,4 @@ seo:
       relativeUrl: true
 layout: contact
 ---
-To get in touch fill the form below or contact me through  the social networks. 
+To get in touch fill the form below or contact me through  the social networks, [twitter](https://twitter.com/calysto0) or [instagram](https://www.instagram.com/avlis_otsilac_rotiv/).
