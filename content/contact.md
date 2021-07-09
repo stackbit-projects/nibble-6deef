@@ -1,6 +1,6 @@
 ---
 title: Get in Touch
-img_path: images/scientific-tulip.PNG
+img_path: images/kelly-sikkema-Oz_J_FXKvIs-unsplash.jpg
 form_id: contactForm
 form_action: /success
 form_fields:
