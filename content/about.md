@@ -36,7 +36,7 @@ layout: page
 >
 > Excerpt From: Charles Petzold. “Code: The Hidden Language of Computer Hardware and Software”.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+>Half a byte—that is, 4 bits—is sometimes referred to as a nibble (and is sometimes spelled nybble), but this word doesn't come up in conversation nearly as often as byte. <cite>Neil Gaiman</cite>
 
 
 My name is Vitor Calisto Silva and I am a master's student in Porto, Portugal. I'm working with bioinformatic tools to perform analysis on the genetics and genomics of the Zebrafish pancreas. I am also using this information to compare the findings with what is known about Human pancreas.
