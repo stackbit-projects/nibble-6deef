@@ -36,6 +36,9 @@ layout: page
 >
 > Excerpt From: Charles Petzold. “Code: The Hidden Language of Computer Hardware and Software”.
 
+
+
+
 My name is Vitor Calisto Silva and I am a master's student in Porto, Portugal. I'm working with bioinformatic tools to perform analysis on the genetics and genomics of the Zebrafish pancreas. I am also using this information to compare the findings with what is known about Human pancreas.
 
 I previously did an internship on a project of conservation of the Iberian Wolf in the northern of Portugal and also participated in a project to study the genetics of the Guinea Baboon populations in Mauritania.
